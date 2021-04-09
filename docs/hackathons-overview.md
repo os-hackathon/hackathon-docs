@@ -2,7 +2,7 @@
 
 A hackathon (portmanteau of *hacking marathon*) is an event that brings like-minded individuals in an organized fashion to sprint towards a common goal. The word hackathon has been used to describe a variety of events, typically around software or product development. In general, hackathons can be distinguished by their **focus/scope**, **duration**, and **scale**.
 
-For example, [GPU Hackathons](https://www.oshackathon.com/events/2021-amd-rocm-hackathons) have the following attributes:
+For example, [GPU Hackathons](https://www.oshackathon.org/events/2021-amd-rocm-hackathons) have the following attributes:
 * **focus/scope** : To port and optimize software applications for GPU hardware.
 * **duration** : Typically GPU Hackathons are of five day duration.
 * **scale** : Usually about 10 teams of develepors attend, with between 2-6 developers per team.
